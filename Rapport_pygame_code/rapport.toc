@@ -1,0 +1,17 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}sc\IeC {\'e}nario}{4}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1} le processus de production}{4}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}le r\IeC {\'e}gle g\IeC {\'e}n\IeC {\'e}ral du jeu vid\IeC {\'e}o \IeC {\`a} r\IeC {\'e}aliser}{4}{subsubsection.1.1.2}%
+\contentsline {section}{\numberline {2}Algorithme}{5}{section.2}%
+\contentsline {subsubsection}{\numberline {2.0.1}charger des fichiers de l'image}{5}{subsubsection.2.0.1}%
+\contentsline {subsubsection}{\numberline {2.0.2}harger l\IeC {\textquoteright }image du fond}{5}{subsubsection.2.0.2}%
+\contentsline {subsubsection}{\numberline {2.0.3}personnage}{5}{subsubsection.2.0.3}%
+\contentsline {subsubsection}{\numberline {2.0.4} charger des poissons et des emp\IeC {\^e}chements}{5}{subsubsection.2.0.4}%
+\contentsline {subsubsection}{\numberline {2.0.5}la cr\IeC {\'e}ation de hame\IeC {\c c}on et de cordeau}{5}{subsubsection.2.0.5}%
+\contentsline {subsubsection}{\numberline {2.0.6} Le mouvement de hame\IeC {\c c}on}{6}{subsubsection.2.0.6}%
+\contentsline {subsubsection}{\numberline {2.0.7}Collusion des images}{7}{subsubsection.2.0.7}%
+\contentsline {subsubsection}{\numberline {2.0.8}d\IeC {\'e}monstraction math\IeC {\'e}matique}{7}{subsubsection.2.0.8}%
+\contentsline {subsubsection}{\numberline {2.0.9}convertir vers le code}{8}{subsubsection.2.0.9}%
+\contentsline {subsubsection}{\numberline {2.0.10}La formule de calcul sous la condition que la collusion arrive}{8}{subsubsection.2.0.10}%
+\contentsline {section}{\numberline {3}conclusion}{9}{section.3}%
